@@ -11,4 +11,4 @@ let mix = require('laravel-mix');
  |
  */
 
-mix.js('index.js', 'dist')
+mix.js('src/index.js', 'dist/index.js')
