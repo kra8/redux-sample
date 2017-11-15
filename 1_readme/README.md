@@ -7,7 +7,7 @@ At first, recommend to read [Redux - Read Me](https://redux.js.org).
 $ npm install
 ```
 
-## Run the "redux-sample-basic"
+## Run the "redux-sample-readme"
 ``` sh
 $ npm run dev
 $ npm run start
